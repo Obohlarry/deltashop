@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/https//Obohlarry.github.io/deltashop.git/static/js/main.0577e4c1.chunk.js",
+    "main.js.map": "/https//Obohlarry.github.io/deltashop.git/static/js/main.0577e4c1.chunk.js.map",
+    "runtime-main.js": "/https//Obohlarry.github.io/deltashop.git/static/js/runtime-main.4acd70ab.js",
+    "runtime-main.js.map": "/https//Obohlarry.github.io/deltashop.git/static/js/runtime-main.4acd70ab.js.map",
+    "static/js/2.cd311a34.chunk.js": "/https//Obohlarry.github.io/deltashop.git/static/js/2.cd311a34.chunk.js",
+    "static/js/2.cd311a34.chunk.js.map": "/https//Obohlarry.github.io/deltashop.git/static/js/2.cd311a34.chunk.js.map",
+    "index.html": "/https//Obohlarry.github.io/deltashop.git/index.html",
+    "precache-manifest.020afe238d15d07485ad8f5fcf8ff6f3.js": "/https//Obohlarry.github.io/deltashop.git/precache-manifest.020afe238d15d07485ad8f5fcf8ff6f3.js",
+    "service-worker.js": "/https//Obohlarry.github.io/deltashop.git/service-worker.js",
+    "static/js/2.cd311a34.chunk.js.LICENSE.txt": "/https//Obohlarry.github.io/deltashop.git/static/js/2.cd311a34.chunk.js.LICENSE.txt",
+    "static/media/commerce.png": "/https//Obohlarry.github.io/deltashop.git/static/media/commerce.d74b1274.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4acd70ab.js",
+    "static/js/2.cd311a34.chunk.js",
+    "static/js/main.0577e4c1.chunk.js"
+  ]
+}
